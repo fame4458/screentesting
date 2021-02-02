@@ -1,0 +1,8 @@
+mutable object คือ object ที่แก้ค่าได้
+immutable object คือ object ที่แก้ค่าไม่ได้ 
+
+Example of an immutable object in JavaScript: List, Set
+
+Pros and cons of immutability: pros สามารถปรับปรุงประสิทธิภาพของ components ได้,การแก้ไขข้อมูลมีความชัดเจนมากขึ้น  cons มันต้องมีการอ้างอิงเพื่อให้หา data ได้
+
+How can you achieve immutability in your own code: จัดเก็บเป็น class โดยที่ attribute ใน class ทั้งหมดจะเป็น private หากจะแก้ไขให้แก้ไขผ่าน method ที่สร้างไว้เฉพาะ
