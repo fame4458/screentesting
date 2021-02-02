@@ -8,3 +8,5 @@ the answer of question number 1 to 4 is in path /q1, /q2, /q3 and /q4
 i use bootstrap and @reach/router
 - bootstrap for styling this web
 - @reach/router to use Router
+
+Answer of question number is in Questiion6.txt
