@@ -9,4 +9,4 @@ i use bootstrap and @reach/router
 - bootstrap for styling this web
 - @reach/router to use Router
 
-Answer of question number is in Questiion6.txt
+Answer of question number is in Question6.txt
